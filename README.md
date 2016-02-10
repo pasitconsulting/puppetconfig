@@ -1,0 +1,2 @@
+# puppetconfig
+test
